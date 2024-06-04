@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, dynamics nav, business central**
 
-- 📫 How to reach me **slava.georgiev@outlook.de**
+- 📫 How to reach me **slava@craftpro.digital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
